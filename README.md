@@ -18,6 +18,7 @@ For those who want to ask,
 You can also visit our social media sites like [Linkedin](https://www.linkedin.com/company/bharatamjanam/) and [Instagram](https://www.instagram.com/bharatamjanam?igsh=MTllamZ6cXc5ODg0MQ==)
 to see our work and contribute.
 
+![Welcome Image](https://github.com/bharatam-janam/bharatamjanam/blob/main/General/WhatsApp Image 2025-07-17 at 15.48.00_dfb58280.jpg?raw=true)
 
 >[!NOTE]
 >The organisation is in its early form with several new works, offers-opportunities, and expansion along the way. Please try to maintain a decorum and do not plagiarise our project(codes/articles).
