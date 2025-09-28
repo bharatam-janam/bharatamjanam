@@ -320,6 +320,9 @@ body{
 	.research a {
 		letter-spacing: 0;
 	}
+	.mobiletext{
+		margin-bottom: 0px;
+	}
 
 	.next-page a {
 		letter-spacing: 0;
